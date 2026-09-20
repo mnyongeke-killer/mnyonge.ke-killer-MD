@@ -1,0 +1,11 @@
+{
+  "name": "mnyonge.ke-killer-md",
+  "verSion": "1.0.0",
+  "main": "indeX.jS",
+  "ScriptS": { "Start": "node indeX.jS" },
+  "dependencieS": {
+    "@whiSkeySocketS/baileyS": "^6.7.0",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
